@@ -8,7 +8,6 @@ public class Main {
         triangle.c = 5;
         triangle.getArea();
 
-
    Flower flower = new Flower();
    flower.name="Roza";
    flower.price= 500;
